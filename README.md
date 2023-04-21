@@ -14,6 +14,7 @@ Then I have saved the model in h5 file format and the loaded it in a streamlit a
 
 ![output1](https://user-images.githubusercontent.com/71088263/233706839-fc05612d-2924-49c4-b5aa-024ce64fbde0.png)
 
-![output2](https://user-images.githubusercontent.com/71088263/233706849-c22cae3a-2911-4b63-9d06-8f00fb0529fc.png)
+![image](https://user-images.githubusercontent.com/71088263/233711336-90953eef-b33d-43b8-a9b5-4057f1b4eae8.png)
+
 
 After submitting your details the web app generates a pdf report using fpdf and your data gets stored in a mysql database
