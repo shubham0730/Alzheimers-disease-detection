@@ -9,7 +9,8 @@ I have built a cnn model to detect the presence of dementia in a patient's MRI S
 
 ![loss_ss](https://user-images.githubusercontent.com/71088263/233706642-b277f939-f8d8-41ae-89d6-3ad036ea575b.png)
 
-Then I have saved the model in h5 file format and the loaded it in a streamlit app to make the model accesible to users.
+Then I have saved the model in h5 file format and the loaded it in a streamlit app to make the model accesible to users. 
+![image](https://user-images.githubusercontent.com/71088263/233707755-ce40e927-6518-41fd-a756-242150f332bc.png)
 
 ![output1](https://user-images.githubusercontent.com/71088263/233706839-fc05612d-2924-49c4-b5aa-024ce64fbde0.png)
 
